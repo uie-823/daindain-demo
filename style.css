@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 微軟正黑體;
+}
+
+nav{
+    background: #F9C300;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+#logo img{
+    width: 70px;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 12px;
+}
+
+nav ol li {
+    display: inline-block;
+    padding: 15px;
+}
+
+nav ol li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 900;
+    
+}
