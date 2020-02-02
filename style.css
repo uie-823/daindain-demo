@@ -48,9 +48,9 @@ nav ol li a {
 /* 文字區域 */
 section h1 {
     color: #F9C300;
-    font-size: 32px;
+    font-size: 30px;
     text-align: center;
-    padding: 50px 0;
+    padding: 40px 0;
 }
 
 #month, #partner, #news {
